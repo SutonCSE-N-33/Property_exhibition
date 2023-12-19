@@ -1,0 +1,8 @@
+#root {
+  max-width: 1536px;
+  margin: 0 auto;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,25 @@
+// eslint-disable-next-line no-unused-vars
+import React from "react";
+
+const Map = () => {
+  return (
+    <div>
+      <section className=" my-10">
+        <div className="">
+          <iframe
+            className="color-gray"
+            src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1291.9425671198871!2d91.84229214342119!3d22.37196841889721!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1695830275559!5m2!1sen!2sbd"
+            width="1260"
+            height="550"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+      </section>
+    </div>
+  );
+};
+
+export default Map;

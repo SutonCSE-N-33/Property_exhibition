@@ -1,0 +1,98 @@
+[
+    {
+      "title": "Cozy Apartment in Dhaka",
+      "area": 120.5,
+      "price": 250000,
+      "description": "A comfortable apartment in the heart of Dhaka.",
+      "type": "Apartment",
+      "purpose": "sell",
+      "completion": "ready",
+      "status": "available",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upozila": "Gulshan",
+      "img_url": [
+        "https://images.unsplash.com/photo-1560769628-1b66bbde1919",
+        "https://images.unsplash.com/photo-1576682577920-5f69f8c66d86"
+      ],
+      "union_ward": "Ward 1",
+      "village": "Village A"
+    },
+    {
+      "title": "Seaside Villa in Cox's Bazar",
+      "area": 180.2,
+      "price": 450000,
+      "description": "A beautiful villa by the sea in Cox's Bazar.",
+      "type": "House",
+      "purpose": "sell",
+      "completion": "unready",
+      "status": "booked",
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "upozila": "Cox's Bazar",
+      "img_url": [
+        "https://images.unsplash.com/photo-1571922818455-570b270e7c36",
+        "https://images.unsplash.com/photo-1583807778178-5a5e95a80c76"
+      ],
+      "union_ward": "Ward 2",
+      "village": "Village B"
+    },
+    {
+      "title": "Hillside Cottage in Rajshahi",
+      "area": 200.8,
+      "price": 380000,
+      "description": "A charming cottage with hillside views in Rajshahi.",
+      "type": "House",
+      "purpose": "rent",
+      "completion": "ready",
+      "status": "available",
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "upozila": "Rajshahi City",
+      "img_url": [
+        "https://images.unsplash.com/photo-1586980796160-5ec07821c50a",
+        "https://images.unsplash.com/photo-1597809895821-9e05b2ce2b6d"
+      ],
+      "union_ward": "Ward 3",
+      "village": "Village C"
+    },
+    {
+      "title": "Lakeview Mansion in Khulna",
+      "area": 300.0,
+      "price": 750000,
+      "description": "A grand mansion with a view of the lake in Khulna.",
+      "type": "House",
+      "purpose": "sell",
+      "completion": "ready",
+      "status": "available",
+      "division": "Khulna",
+      "district": "Khulna",
+      "upozila": "Khulna City",
+      "img_url": [
+        "https://images.unsplash.com/photo-1603613743306-94e68f91e4e9",
+        "https://images.unsplash.com/photo-1579661781993-73b5a24802e9"
+      ],
+      "union_ward": "Ward 4",
+      "village": "Village D"
+    },
+    {
+      "title": "Mountain Retreat in Sylhet",
+      "area": 260.3,
+      "price": 520000,
+      "description": "A peaceful mountain retreat in Sylhet.",
+      "type": "House",
+      "purpose": "rent",
+      "completion": "ready",
+      "status": "available",
+      "division": "Sylhet",
+      "district": "Sylhet",
+      "upozila": "Sylhet City",
+      "img_url": [
+        "https://images.unsplash.com/photo-1574307118864-8d1f17d2e36f",
+        "https://images.unsplash.com/photo-1567782872555-570b270e7c36"
+      ],
+      "union_ward": "Ward 5"
+    }
+  ]
+  
+  
